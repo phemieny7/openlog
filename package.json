@@ -1,0 +1,19 @@
+{
+  "name": "openlog",
+  "version": "1.0.0",
+  "description": "An Api that streamline all africa logisitic operations into one container",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phemieny7/openlog.git"
+  },
+  "author": "Oyewo Oluwafemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phemieny7/openlog/issues"
+  },
+  "homepage": "https://github.com/phemieny7/openlog#readme"
+}
